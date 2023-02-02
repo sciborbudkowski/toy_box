@@ -23,6 +23,15 @@ dependencies:
   twitter_login: ^4.3.1
   sign_in_with_apple: ^4.3.0
   google_sign_in: ^5.4.4
+  firebase_core:
+  firebase_auth:
+  modal_bottom_sheet: ^2.1.2
+
+dependency_overrides:
+  modal_bottom_sheet:
+    git:
+      url: https://github.com/danReynolds/modal_bottom_sheet.git
+      path: modal_bottom_sheet
 
 dev_dependencies:
   flutter_test:

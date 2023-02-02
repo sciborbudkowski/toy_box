@@ -2,9 +2,9 @@ import 'dart:core';
 
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
 import 'package:toy_box/dashboard.dart';
 import 'package:toy_box/login.dart';
-
 import 'package:toy_box/settings.dart';
 import 'package:toy_box/styles.dart';
 

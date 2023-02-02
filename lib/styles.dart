@@ -22,7 +22,7 @@ class Styles {
     fontFamily: 'Nunito',
     fontSize: 18,
     fontWeight: FontWeight.w100,
-    color: Colors.orange,
+    color: Colors.black,
   );
 
   static const primaryButtonTextStyle = TextStyle(
